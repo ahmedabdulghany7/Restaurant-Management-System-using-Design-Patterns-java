@@ -10,8 +10,6 @@
 | Ahmed Essam Abdallah | 192100088 | 192100088@ecu.edu.eg |
 | Amr Ehab | 192100136 | 192100136@ecu.edu.eg |
 | Abdelshafy Ayamn | 192100092 | 192100092@ecu.edu.eg |
-| Mazen Mohsen | 192100158 | 192100158@ecu.edu.eg |
-| Daniel Ehab | 192100133 | 192100133@ecu.edu.eg |
 | Ahmed Amr | 122100001 | 122100001@ecu.edu.eg |
 
 
