@@ -55,8 +55,9 @@
 https://drive.google.com/drive/folders/1XQjDL5u2cUQfFukwOOQqJFeJHt_CPJGR
 
 This link contains:
-  - Video demonstration
   - Screen recording showing the project running
+  - A video explaining the project files and folders.
+  - video providing a full walkthrough of the project and screen recording of the program.
     
   ---
   
